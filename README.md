@@ -4,7 +4,7 @@ I am a Software engineer, currently leading a team in estateOS @ coliv GmbH.
 
 - I love and practice clean and organised code.
 - Testing is a very important tool for me.
-- I am a programing-language/framwork/tool/technology agnostic, and I believe that each technology has benefits and pitfalls over each other ( in a specific context and constraint ), so it is just about using the right tool for the job.
+- I am a programming-language/framework/tool/technology agnostic, and I believe that each technology has benefits and pitfalls over each other ( in a specific context and constraint ), so it is just about using the right tool for the job.
 - Always learning ...
 
 SOreadyForHelp ° Contacts :
