@@ -1,6 +1,6 @@
 ### Hi! there 👋
 
-I am a Software engineer, currently leading a team in estateOS @ coliv GmbH.
+I am a Software engineer @ estateOS by coliv GmbH.
 
 - I love and practice clean and organised code.
 - Testing is a very important tool for me.
