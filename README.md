@@ -1,6 +1,6 @@
 ### Hi! there 👋
 
-I am a Software engineer @ estateOS by coliv GmbH.
+I am a Software engineer @ ebay kleinanzeigen / Adevinta.
 
 - I love and practice clean and organised code.
 - Testing is a very important tool for me.
